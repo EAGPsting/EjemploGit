@@ -1,0 +1,21 @@
+[
+   {
+      "id_Mascota":1,
+      "nombre":"Evee",
+      "tipo":"Perro",
+      "raza":"Pitbull",
+      "sexo":"Hembra",
+      "fecha_Nac":"2020-10-10T00:00:00",
+      "color":"Cafe con blanco",
+      "fecha_Esterilizacion":null
+   },
+   {
+      "id_Mascota":2,
+      "nombre":"Rocky",
+      "tipo":"Perro",
+      "raza":"Pastor Aleman",
+      "sexo":"Macho",
+      "fecha_Nac":"2019-12-12T00:00:00",
+      "color":"Cafe con negro",
+      "fecha_Esterilizacion":null
+   }
