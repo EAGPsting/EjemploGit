@@ -29,5 +29,23 @@
       "color":"Cafe con negro",
       "fecha_Esterilizacion":null
    }
+],
+  "citas":[
+   {
+      "id_Cita":2,
+      "tipo_Cita":"Baño",
+      "fecha":"2022-12-12",
+      "hora":"03:00 pm",
+      "id_Mascota":1,
+      "veterinaria":"Escalon"
+   },
+   {
+      "id_Cita":3,
+      "tipo_Cita":"Vacunacion",
+      "fecha":"2022-12-13",
+      "hora":"04:00 pm",
+      "id_Mascota":2,
+      "veterinaria":"Antiguo Cuscatlan"
+   }
 ]
 }
