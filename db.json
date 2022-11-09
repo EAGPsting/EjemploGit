@@ -17,7 +17,10 @@
       "sexo":"Hembra",
       "fecha_Nac":"2020-10-10T00:00:00",
       "color":"Cafe con blanco",
-      "fecha_Esterilizacion":null
+      "fecha_Esterilizacion":null,
+      "curaciones":1,
+      "vacunas":7,
+      "citas":1
    },
    {
       "id_Mascota":2,
@@ -27,7 +30,10 @@
       "sexo":"Macho",
       "fecha_Nac":"2019-12-12T00:00:00",
       "color":"Cafe con negro",
-      "fecha_Esterilizacion":null
+      "fecha_Esterilizacion":null,
+      "curaciones":2,
+      "vacunas":9,
+      "citas":0
    }
 ],
   "citas":[
